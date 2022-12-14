@@ -1,5 +1,5 @@
 ---
-name: traefik-tls-example
+name: whoami
 
 networks:
   web: {}
