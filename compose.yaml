@@ -2,7 +2,8 @@
 name: whoami
 
 networks:
-  web: {}
+  web:
+    name: web
 
 services:
 
